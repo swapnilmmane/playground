@@ -15,3 +15,6 @@ This project keeps all sources used for building up Kibble official website, ser
 Run `python -m SimpleHTTPServer 8000` command
 The website http://localhost:8000/
 5. Commit the changes to git :)
+
+
+Note: For production site https://kibble.apache.org, the buildbot will regenerate the site from the markdown files and publish it.
